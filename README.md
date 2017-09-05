@@ -5,6 +5,6 @@
 
 jdk 版本 jdk1.8 
 
-itext-asian 版本 .2.0 
+itext-asian 版本 5.2.0 
 
 itextpdf 版本 5.5.10 
