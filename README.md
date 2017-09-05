@@ -1,5 +1,4 @@
-# itextpdf
-ItextPdf设置页码(第x页/共y页)
+# ItextPdf 设置页码(第x页/共y页)
 这是java项目，下载之后修改jdk版本就可以直接运行
 运行环境：
 jdk 版本 jdk1.8
