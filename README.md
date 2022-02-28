@@ -9,4 +9,4 @@ itext-asian 版本 5.2.0
 
 itextpdf 版本 5.5.10 
 
-<a href="http://my.henghost.com/aff.php?aff=6575"><img src="https://www.henghost.com/images/affs-new/affs-one-pic1.jpg" width="960" height="90" alt="henghost affiliate"></a>
+<a href="https://www.vpsor.cn/activity/cvm?userCode=oh18648"><img src="https://cdn.topvps.top/image/doc/dashi/20211220/1.png" width="960" height="90"></a>
